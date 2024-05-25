@@ -39,7 +39,7 @@ function Projects() {
               description="Enter the realm of modern shopping with our ReactJS-fueled E-commerce hub! Peruse, add to cart, delve into intricate
               product pages, and swiftly pinpoint your desired items using our intuitive search bar. Elevate your shopping escapade
               now!"
-              ghLink="https://github.com/Ayush1350/Go-To-Shopping"
+              ghLink="https://github.com/Ayush1350/E-Commerce_ReactJs_NodeJs"
               
             />
           </Col>
