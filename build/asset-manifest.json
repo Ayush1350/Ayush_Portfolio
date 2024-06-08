@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Ayush_Portfolio/static/css/main.2acbad5e.css",
-    "main.js": "/Ayush_Portfolio/static/js/main.8f7ef864.js",
+    "main.js": "/Ayush_Portfolio/static/js/main.eec769b5.js",
     "static/js/787.1ed0c42c.chunk.js": "/Ayush_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TravelWebsite.png": "/Ayush_Portfolio/static/media/TravelWebsite.3bdd74f92f0ad222cf67.png",
     "static/media/Netflix.png": "/Ayush_Portfolio/static/media/Netflix.fa0edddddff704c97f44.png",
     "static/media/E-Commerce.png": "/Ayush_Portfolio/static/media/E-Commerce.2af3aca0c3ce8fa69028.png",
     "static/media/Amazon.png": "/Ayush_Portfolio/static/media/Amazon.bd62a80910ce7bc50a0b.png",
     "static/media/avatar.JPG": "/Ayush_Portfolio/static/media/avatar.b6fec2f500c3d286e46b.JPG",
-    "static/media/Ayush_Resume.pdf": "/Ayush_Portfolio/static/media/Ayush_Resume.b17963b0db5e315c57d0.pdf",
+    "static/media/Ayush_Resume.pdf": "/Ayush_Portfolio/static/media/Ayush_Resume.ac9b48a89fc801ceb111.pdf",
     "static/media/MedicineDonation.png": "/Ayush_Portfolio/static/media/MedicineDonation.506e5b5639f81524d3ad.png",
     "static/media/BubblePopGame.png": "/Ayush_Portfolio/static/media/BubblePopGame.88c8b6d851d5b0486e5e.png",
     "static/media/home-main.svg": "/Ayush_Portfolio/static/media/home-main.99d26237a01ec7c9f4ac5d35521cb441.svg",
     "index.html": "/Ayush_Portfolio/index.html",
     "main.2acbad5e.css.map": "/Ayush_Portfolio/static/css/main.2acbad5e.css.map",
-    "main.8f7ef864.js.map": "/Ayush_Portfolio/static/js/main.8f7ef864.js.map",
+    "main.eec769b5.js.map": "/Ayush_Portfolio/static/js/main.eec769b5.js.map",
     "787.1ed0c42c.chunk.js.map": "/Ayush_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2acbad5e.css",
-    "static/js/main.8f7ef864.js"
+    "static/js/main.eec769b5.js"
   ]
 }

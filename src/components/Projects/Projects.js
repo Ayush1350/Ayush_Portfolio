@@ -2,9 +2,9 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Amazon from "../../Assets/Projects/Amazon.png";
-import BubblePopGame from "../../Assets/Projects/BubblePopGame.png";
+import ChessGame from "../../Assets/Projects/Chess.png";
 import ECommerce from "../../Assets/Projects/E-Commerce.png";
-import MedicineDonation from "../../Assets/Projects/MedicineDonation.png";
+// import MedicineDonation from "../../Assets/Projects/MedicineDonation.png";
 import Netflix from "../../Assets/Projects/Netflix.png";
 import TravelWebsite from "../../Assets/Projects/TravelWebsite.png";
 
@@ -46,11 +46,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={BubblePopGame}
+              imgPath={ChessGame}
              
-              title="Bubble Pop"
-              description="Bubble Pop is a captivating web-based game developed entirely in JavaScript, offering players an engaging challenge of popping bubbles containing characters to clear the screen. With its unique gameplay mechanics and colorful design, Bubble Pop promises hours of addictive fun for players of all ages."
-              ghLink="https://github.com/Ayush1350/Bubble_POP_Game"
+              title="Chess Game"
+              description="This chess game application allows two players to play a game of chess with real-time interaction facilitated through Socket.io. The application supports different views for each player and a separate spectator view. The UI is built using EJS and styled with TailwindCSS, while the backend is powered by Express."
+              ghLink="https://github.com/Ayush1350/Chess_Game"
                            
             />
           </Col>
