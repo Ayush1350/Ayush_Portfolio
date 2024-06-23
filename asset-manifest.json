@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ayush_Portfolio/static/css/main.2acbad5e.css",
-    "main.js": "/Ayush_Portfolio/static/js/main.5975457d.js",
+    "main.css": "/Ayush_Portfolio/static/css/main.1e055d4b.css",
+    "main.js": "/Ayush_Portfolio/static/js/main.f5f14578.js",
     "static/js/787.1ed0c42c.chunk.js": "/Ayush_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TravelWebsite.png": "/Ayush_Portfolio/static/media/TravelWebsite.3bdd74f92f0ad222cf67.png",
     "static/media/Netflix.png": "/Ayush_Portfolio/static/media/Netflix.fa0edddddff704c97f44.png",
@@ -13,12 +13,12 @@
     "static/media/Chess.png": "/Ayush_Portfolio/static/media/Chess.777a48714b7ee1050f2a.png",
     "static/media/home-main.svg": "/Ayush_Portfolio/static/media/home-main.99d26237a01ec7c9f4ac5d35521cb441.svg",
     "index.html": "/Ayush_Portfolio/index.html",
-    "main.2acbad5e.css.map": "/Ayush_Portfolio/static/css/main.2acbad5e.css.map",
-    "main.5975457d.js.map": "/Ayush_Portfolio/static/js/main.5975457d.js.map",
+    "main.1e055d4b.css.map": "/Ayush_Portfolio/static/css/main.1e055d4b.css.map",
+    "main.f5f14578.js.map": "/Ayush_Portfolio/static/js/main.f5f14578.js.map",
     "787.1ed0c42c.chunk.js.map": "/Ayush_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2acbad5e.css",
-    "static/js/main.5975457d.js"
+    "static/css/main.1e055d4b.css",
+    "static/js/main.f5f14578.js"
   ]
 }
